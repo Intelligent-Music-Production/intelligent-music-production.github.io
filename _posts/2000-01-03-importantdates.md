@@ -1,0 +1,23 @@
+---
+title: "Important Dates"
+bg: orange
+color: black
+fa-icon: calendar
+---
+
+# Important Dates
+
+Submission deadline: Friday 17 July 2020
+
+Notification of acceptance: Friday 31 July 2020
+
+Camera ready submission: Friday 21st August 2020
+
+Early Bird Registration Deadline: Friday 21st August 2020
+
+Workshop Date: Friday 4 September 2020
+
+
+# Registration
+
+Registration is not open yet, but will be avalaible here.
