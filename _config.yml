@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "WIMP2020 - Workshop on Intelligent Music Production"
+title:       "WIMP2021 - Workshop on Intelligent Music Production"
 keywords:    "Automatic mixing, intelligent music production, audio engineering, conference, workshop"
-description: "The annual Workshop on Intelligent Music Production 2020 will be hosted at University of Plymouth, UK"
+description: "The annual Workshop on Intelligent Music Production 2021 will be hosted at University of Plymouth, UK"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/favicon.png"
